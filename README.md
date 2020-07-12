@@ -5,6 +5,7 @@ I genuinely enjoy learning and building projects using web technologies, includi
 My professional experience allowed me to work with great people across 13 countries and live in big cities like Buenos Aires, London, and Munich. 
 
 Today, full stack web development is my joy and the platform to take on new projects and keep learning. 
+
 This portfolio hosts my current work while expanding my professional career in software development.
 
 Look around and learn a little more about my work.

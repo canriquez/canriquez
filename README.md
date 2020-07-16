@@ -22,7 +22,7 @@ Look around and learn a little more about my work.
   <summary>My Current Github Stats</summary>
   <br>
   
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=canriquez&show_icons=true)
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=canriquez&show_icons=true)
 </details>
 
 <!--

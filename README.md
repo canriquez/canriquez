@@ -16,6 +16,14 @@ Look around and learn a little more about my work.
 
 - Porfolio: [www.carlosanriquez.com](https://www.carlosanriquez.com/)
 
+
+<details>
+  <summary>My Current Github Stats</summary>
+  <br>
+  
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=canriquez&show_icons=true)
+</details>
+
 <!--
 **canriquez/canriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

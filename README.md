@@ -1,6 +1,6 @@
 ### Hello, welcome to my GitHub portfolio 👋
 
-I genuinely enjoy learning and building projects using web technologies, including HTML, CSS, Javascript, Ruby, and Ruby on Rails, and soon to include React and Redux projects too 🚀.
+I enjoy learning and building projects using web technologies, including HTML, CSS, Javascript, Ruby, Ruby on Rails, and React/Redux projects 🚀.
 
 My professional experience in Telecoms allowed me to work with great people across 13 countries and live in big cities like Buenos Aires, London, and Munich. 
 

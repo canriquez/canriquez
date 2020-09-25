@@ -45,7 +45,7 @@ Look around and learn a little more about my work.
 
 # 
 # Articles 📝
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@canriquez/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@canriquez/0" alt="Recent Article on medium"></img></a>   
+<a target="_blank" href="https://medium.com/swlh/3-ideas-and-6-steps-you-need-to-leapfrog-careers-into-html-css-ba9db2a4588b"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@canriquez/0" alt="Recent Article on medium"></img></a>   
 
 
 <hr>

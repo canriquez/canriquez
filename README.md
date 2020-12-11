@@ -46,7 +46,7 @@ Look around and learn a little more about my work.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=canriquez&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canriquez)](https://github.com/canriquez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canriquez&langs_count=10)](https://github.com/canriquez/github-readme-stats)
 
 </details>
 

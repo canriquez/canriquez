@@ -48,8 +48,6 @@ Look around and learn a little more about my work.
     
 [![Activity](https://wakatime.com/share/@canriquez/1b1e0243-2ec4-424d-8d11-74e0cb862dc8.png)](https://wakatime.com/)
   
-  https://wakatime.com/share/@canriquez/f2977ade-25b7-4059-ad5f-75f521473a72.png
-  
 [![Code](https://wakatime.com/share/@canriquez/f2977ade-25b7-4059-ad5f-75f521473a72.png)](https://wakatime.com/)
 
 [//]: < [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canriquez&langs_count=10)](https://github.com/canriquez/github-readme-stats) >
